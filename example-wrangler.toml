@@ -14,7 +14,7 @@
 [[d1_databases]]
 binding = "DB" # the binding name is used in code (platform.env.DB), keep it consistent
 database_name = "example_db"
-database_id = "653c9dad-1793-4905-bfb4-c546875bdc86" 
+database_id = "e4907ab6-b0c6-4eb6-a037-4edce252a948"
 preview_database_id = "example_db"
 
 # https://developers.cloudflare.com/d1/get-started/

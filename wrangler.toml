@@ -33,11 +33,11 @@ preview_database_id = "example_db"
 
 [[kv_namespaces]] 
 binding = "LOGIN_SESSION_CACHE" # the binding name is used in code (platform.env.LOGIN_SESSION_CACHE), keep it consistent
-id = "c5f0a2fefb6e4c27b6402e19c3f46dc8" 
+id = "37dae2495c194b8c81d85587422daa54" 
 
 [[kv_namespaces]]
 binding = "RATE_LIMIT"  # the binding name is used in code (platform.env.RATE_LIMIT), keep it consistent
-id = "28b287992859414780e2fcb92c62839c"
+id = "71701cc0b2274c80b956fb3d5a9c6486"
 
 # https://developers.cloudflare.com/kv/reference/kv-commands/
 # operate the local KV namespace using wrangler commands (examples below):

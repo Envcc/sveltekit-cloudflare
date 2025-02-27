@@ -10,6 +10,8 @@
 #   2. D1: `platform.env.DB`
 #   3. KV: `platform.env.LOGIN_SESSION_CACHE`
 #   4. Queues: `platform.env.ERROR_QUEUE`
+name = "mynet30-worker"  # ✅ Define the Worker name!
+main = ".svelte-kit/cloudflare"
 
 [[d1_databases]]
 binding = "DB" # the binding name is used in code (platform.env.DB), keep it consistent

@@ -1,7 +1,5 @@
 <p align="center">
-    <picture>
-        <img width="500" alt="Just In Case Homepage" src="https://images.linzichun.com/blog/sveltekit_cloudflare_template/homepage.jpg">
-    </picture>
+
 </p>
 
 <p align="center">
